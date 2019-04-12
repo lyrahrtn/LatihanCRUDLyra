@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LatihanCRUDLyra</string>
+    <string name="day_1">Day 1</string>
+    <string name="play_with_android_studio">Play with Android Studio</string>
+    <string name="day_2">Day 2</string>
+    <string name="layout_and_single_page_app">Layout and Single Page App</string>
+    <string name="day_3">Day 3</string>
+    <string name="intent_and_multi_screen_app">Itent and MultiScreen App</string>
+    <string name="day_4">Day 4</string>
+    <string name="material_design_and_storage">Material Design and Storage</string>
+    <string name="day_5">Day 5</string>
+    <string name="background_services_and_app_distribution">Service and App Distribution</string>
+    <string name="hello">Hello</string>
+    <string name="text_to_share">Text to Share</string>
+    <string name="explanation">Explanation</string>
+</resources>
