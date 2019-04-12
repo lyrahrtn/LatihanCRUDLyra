@@ -1,0 +1,22 @@
+# LatihanCRUDLyra
+login page
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud1.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud2.jpg)
+berhasil login
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud3.jpg)
+daftar
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud4.jpg)
+klik daftar
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud5.jpg)
+lihat data
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud6.jpg)
+update data
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud7.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud8.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud9.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud10.jpg)
+tambah data
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud11.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud12.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud13.jpg)
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud14.jpg)
