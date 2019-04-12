@@ -15,6 +15,8 @@ update data
 ![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud8.jpg)
 ![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud9.jpg)
 ![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud10.jpg)
+delete data
+![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud15.jpg)
 tambah data
 ![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud11.jpg)
 ![alt text](https://github.com/lyrahrtn/LatihanCRUDLyra/blob/master/crud12.jpg)
